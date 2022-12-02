@@ -1,0 +1,116 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+h1 {
+    margin-top: 50px 0 0 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66bfbf;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66bfbf;
+    font-weight: normal;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999e;
+}
+hr {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+}
+
+.pro {
+    text-decoration: underline;
+}
+.top-container {
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 50px;
+}
+.middle-container {
+    margin-bottom: 90px;
+}
+.bottom-container {
+   background-color: #66bfbf;
+    padding:50px 0 20px;
+}
+.top-cloud {
+    display: inline-block;
+    height: 120px;
+    position: absolute;
+    top: 60px;
+    right: 300px;
+}
+.bottom-cloud {
+    display: inline-block;
+    height: 100px;
+    position: absolute;
+    top: 200px;
+    left: 250px;
+}
+.mountain {
+    display: inline-block;
+    width: 590px;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.monitor-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.hacker-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.profile-img {
+    height: 200px;
+}
+.profile {
+    width: 50%;
+    margin: 50px auto;
+    line-height: 2;
+}
+.contact-me {
+    width: 50%;
+    margin: 10px auto;
+    line-height: 2;
+}
+.btn {
+    color: #fff;
+    font-size: 20px;
+    border-radius: 8px;
+    background-image: linear-gradient(#11cdd4, #11999e);
+    text-decoration: none;
+    padding: 10px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn:hover {
+    background: #13e3cb;
+}
+a {
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    margin: 10px 20px;
+}
+a:hover {
+    color: #eaf6f6;
+}
+.copyright {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
